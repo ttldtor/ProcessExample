@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ProcessExample</string>
+    <string name="kernel_processor_time">Kernel Processor Time:</string>
+    <string name="total_processor_time">Total Processor Time:</string>
+    <string name="working_set_size">Working Set Size:</string>
+    <string name="user_processor_time">User Processor Time:</string>
+    <string name="processor_time_ms">%sms</string>
+    <string name="private_memory_size">Private Memory Size:</string>
+    <string name="memory_size_kb">%sKB</string>
+</resources>
